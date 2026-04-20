@@ -15,6 +15,10 @@ Based on the training objectives, the dashboard demonstrates:
 
 ![Dashboard1](images/Dashboard-Screen1.png)
 
+![Dashboard2](images/Dashboard-Screen2.png)
+
+![Dashboard3](images/Dashboard-Screen3.png)
+
 ## Business Problem
 
 The analytics team needed a consistent, scalable way to train new analysts on:
