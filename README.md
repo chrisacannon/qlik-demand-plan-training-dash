@@ -13,7 +13,7 @@ Based on the training objectives, the dashboard demonstrates:
 - How to validate data quality and test analytical logic
 - How to interpret trends, segments, and performance indicators
 
-![Dashboard1](images/dashboard-screen1.png)
+![Dashboard1](images/Dashboard-Screen1.png)
 
 ## Business Problem
 
